@@ -212,3 +212,17 @@ $ cat currently_learning.txt
     </td>
   </tr>
 </table>
+
+<br/>
+
+---
+
+## 🌐 Portfolio
+
+<div align="center">
+
+  <a href="https://portfolio-krishi-link.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-portfolio--krishi--link.vercel.app-EAB308?style=for-the-badge&logo=google-chrome&logoColor=000000&labelColor=0D1117&color=EAB308" alt="Portfolio Website" />
+  </a>
+
+</div>
