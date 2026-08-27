@@ -10,12 +10,6 @@
 
   <i>"Building practical solutions with code."</i>
 
-  <br/><br/>
-
-  <a href="https://portfolio-krishi-link.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Live_Site-EAB308?style=for-the-badge&logoColor=000000&labelColor=0D1117&color=EAB308" alt="Portfolio Button" />
-  </a>
-
 </div>
 
 <br/>
@@ -93,10 +87,6 @@ Enthusiastic Java Developer passionate about software development, web applicati
         <img src="https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=mysql&logoColor=EAB308" alt="SQL" />
       </p>
       <br/>
-      <a href="https://portfolio-krishi-link.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/🌐_View_Portfolio-Live_Demo-EAB308?style=for-the-badge&logoColor=000000&labelColor=0D1117&color=EAB308" alt="View Portfolio Button" />
-      </a>
-      <br/><br/>
     </td>
   </tr>
 </table>
@@ -222,17 +212,3 @@ $ cat currently_learning.txt
     </td>
   </tr>
 </table>
-
-<br/>
-
----
-
-## 🌐 Connect & Portfolio
-
-<div align="center">
-
-  <a href="https://portfolio-krishi-link.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-portfolio--krishi--link.vercel.app-EAB308?style=for-the-badge&logo=google-chrome&logoColor=000000&labelColor=0D1117&color=EAB308" alt="Portfolio Website" />
-  </a>
-
-</div>
