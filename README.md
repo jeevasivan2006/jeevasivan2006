@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="assets/profile.jpg" width="160" height="160" alt="Jeeva S Profile Picture">
+  <img src="assets/profile.jpg" width="190" height="190" alt="Jeeva S Profile Picture">
 
   # JEEVA S
 
