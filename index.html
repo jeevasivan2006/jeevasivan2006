@@ -24,10 +24,23 @@
       border: 1px solid #30363d;
       border-radius: 6px;
     }
-    .markdown-body img[src="assets/profile.jpg"] {
+    .markdown-body img[src*="profile"] {
       border-radius: 50%;
-      border: 3px solid #eab308;
+      border: 2px solid #ffd700;
+      box-shadow:
+        0 0 10px rgba(255, 215, 0, 0.7),
+        0 0 25px rgba(255, 215, 0, 0.45),
+        0 0 45px rgba(255, 215, 0, 0.2);
       object-fit: cover;
+      display: inline-block;
+    }
+    @media (max-width: 768px) {
+      body {
+        padding: 1rem;
+      }
+      .markdown-body {
+        padding: 20px;
+      }
     }
   </style>
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
