@@ -20,8 +20,8 @@
 
 ```bash
 > who am i : Jeeva S
-> role   : Java Developer | Full-Stack Developer | Software Developer
-> focus  : Java & Web Development | Software Engineering | Problem Solving
+> role     : Java Developer | Full-Stack Developer | Software Developer
+> focus    : Java & Web Development | Software Engineering | Problem Solving
 ```
 
 Enthusiastic Java Developer passionate about software development, web applications, and problem-solving. Experienced in developing responsive web applications and database integrations. Continuously expanding knowledge to build efficient, scalable software solutions.
