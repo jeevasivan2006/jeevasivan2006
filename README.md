@@ -19,7 +19,7 @@
 ## 👨‍💻 About Me
 
 ```bash
-> whoami : Jeeva S
+> who am i : Jeeva S
 > role   : Java Developer | Full-Stack Developer | Software Developer
 > focus  : Java & Web Development | Software Engineering | Problem Solving
 ```
